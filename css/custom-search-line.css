@@ -1,7 +1,7 @@
 #search-block-form{
         margin: 0 auto;
         margin-top: 4%;
-	width:90%;
+	width:60%;
 	height:28px;
 	border-radius:15px;
 	border:#c9c9c9 solid 1px;
@@ -22,7 +22,7 @@
 	height:100%;
 	}
 #search-block-form .form-actions{
-	width:6%;
+	width:10%;
 	height:28px;
 	float:left;
 	background:url(../img/searchIcon.png) 5px 2px no-repeat;
@@ -35,7 +35,7 @@
 	text-indent:-9999px;
 	}
 #search-block-form .form-item{
-	width:94%;
+	width:90%;
 	padding:0px 5px;
 	float:right;
 	height:28px;
