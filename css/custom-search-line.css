@@ -23,7 +23,6 @@
 	}
 #search-block-form .form-actions{
 	width:28px;
-	height:28px;
 	float:left;
 	background:url(../img/searchIcon.png) 5px 2px no-repeat;
 	}
@@ -35,10 +34,7 @@
 	text-indent:-9999px;
 	}
 #search-block-form .form-item{
-	width:93%;
-	padding:0px 5px;
-	float:right;
-	height:28px;
+	overflow: hidden;
 	}
 #search-block-form .form-item input{
 	font:13px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;
