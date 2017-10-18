@@ -22,7 +22,7 @@
 	height:100%;
 	}
 #search-block-form .form-actions{
-	width:10%;
+	width:28px;
 	height:28px;
 	float:left;
 	background:url(../img/searchIcon.png) 5px 2px no-repeat;
@@ -35,7 +35,7 @@
 	text-indent:-9999px;
 	}
 #search-block-form .form-item{
-	width:90%;
+	width:85%;
 	padding:0px 5px;
 	float:right;
 	height:28px;
